@@ -1,6 +1,6 @@
 ## 👋 Olá, meu nome é <strong>Vinicius Oliveira!</strong>
 
-💬 Formado em Quimica, Administração e futuro Web Full Stack.
+💬 Formado em Quimica, Administração e futuro Web Full Stack pela Growdev.
 😄 Alguns bons longos anos de trabalho na area de mineração, nas empresas: Vale, MMX, Anglo American e Zamin Ferrous.
 ✨ Experiencia com desenvolvimento, suporte e gestão de sistemas: LIMS Nautilus, LIMS Sample Manager, MES Simatic IT e SAP.
 📫 Experiencia com SGBD: Oracle, SQL Server e MySQL.
