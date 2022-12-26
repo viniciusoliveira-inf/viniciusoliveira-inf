@@ -10,6 +10,8 @@
 
 📫 Experiencia com SGBD: Oracle, SQL Server e MySQL.
 
+😄 Linguagem de programação favorita é HTML.
+
 ☀️ Hobbies: Filmes e series, Praia.
 
 
