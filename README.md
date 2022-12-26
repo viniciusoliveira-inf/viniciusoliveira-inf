@@ -1,6 +1,6 @@
 ## 👋 Olá, meu nome é <strong>Vinicius Oliveira!</strong>
 
-💬 Formado em Quimica e Administração.
+💬 Formação: Quimica e Administração.
 
 💻 Aluno do Programa Starter Full Stack Web da Growdev, atualmente estudando front-end.
 
@@ -10,7 +10,7 @@
 
 📫 Experiencia com SGBD: Oracle, SQL Server e MySQL.
 
-☀️ Hobbies: Filmes e Series, Praia.
+☀️ Hobbies: Filmes e series, Praia.
 
 
 
